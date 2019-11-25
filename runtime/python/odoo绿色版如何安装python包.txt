@@ -1,0 +1,51 @@
+Odoo绿色版很好用，但是如果提示缺少某些python包，就麻烦了，在绿色环境下安装python包可不象在linux下那么简单。
+这里介绍一个比较简单实用的方法：
+
+
+
+1、根据odoo提示缺少的包名，从
+https://pypi.python.org/pypi
+下载对应的包，放到
+<odoo绿色版目录>\runtime\python
+下
+
+2、解压刚下载的包，例如：
+xlrd-1.0.0.tar.gz 
+解压到
+xlrd-1.0.0 目录
+
+3、打开命令行窗口，进入到
+<odoo绿色版目录>\runtime\python\<包解压目录>，
+例如：
+F:\Godoo10\runtime\python\xlrd-1.0.0
+
+4、执行命令：
+..\python.exe setup.py build
+..\python.exe setup.py install
+
+如果不出错，包就安装好了。
+
+=============================
+1、如何安装 .whl 文件：
+在python目录下，执行：
+python -m pip install <模块名称>.whl
+
+例如：
+python -m pip install lxml-4.0.0-cp36-cp36m-win_amd64.whl
+
+2、如何从源码安装模块：
+第一步：下载软件包 XXXX.tar.gz
+
+第二步：XXXX.tar.gz解压到当前目录
+
+第三步：执行
+cd XXXX
+..\python setup.py build
+..\python setup.py install
+cd ..
+
+==========================================
+康虎软件工作室（http://www.cfsoft.cf）
+QQ：360026606
+微信： 360026606
+康虎云打印，让odoo实现一步打印

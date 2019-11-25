@@ -1,0 +1,1066 @@
+LOG:  database system was interrupted; last known up at 2018-05-12 20:28:03 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5722F1A8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 11472) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 22144) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  database system was interrupted; last known up at 2019-01-31 16:48:05 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5722F210
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "ERP" does not exist
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  database system was interrupted; last known up at 2019-01-31 16:51:41 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/5729F058
+LOG:  record with zero length at 2/58280340
+LOG:  redo done at 2/5827ED28
+LOG:  last completed transaction was at log time 2019-01-31 16:56:27.143+08
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 101988) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 09:41:43 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/582EC4D0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 98284) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 105676) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  received fast shutdown request
+^CLOG:  database system was interrupted; last known up at 2019-11-21 09:42:26 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/582EC538
+LOG:  redo is not required
+LOG:  database system was interrupted; last known up at 2019-11-21 09:42:27 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/582EC5A0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 95508) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 10:26:15 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/583FE870
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 36624) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 115216) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 10:28:41 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/583FE8D8
+LOG:  redo is not required
+LOG:  database system was interrupted; last known up at 2019-11-21 10:28:45 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/583FE940
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 116448) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 10:34:07 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/58441DD8
+LOG:  record with zero length at 2/5848F5A8
+LOG:  redo done at 2/5848F578
+LOG:  last completed transaction was at log time 2019-11-21 10:34:30.352+08
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 116580) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 109592) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  received fast shutdown request
+^CLOG:  database system was interrupted; last known up at 2019-11-21 10:34:47 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5848F610
+LOG:  redo is not required
+LOG:  database system was interrupted; last known up at 2019-11-21 10:34:49 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5848F678
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 113788) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 10:34:58 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/5848F6E0
+LOG:  record with zero length at 2/584E8618
+LOG:  redo done at 2/584E85E8
+LOG:  last completed transaction was at log time 2019-11-21 10:37:28.662+08
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 113764) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 112408) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+^CLOG:  database system was interrupted; last known up at 2019-11-21 10:37:45 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/584E8680
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 114760) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 117128) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 11:00:33 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/584F06C8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 77032) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 111932) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 11:05:28 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/584F0730
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 110880) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  received fast shutdown request
+^CLOG:  database system was interrupted; last known up at 2019-11-21 11:05:40 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/584F0798
+LOG:  redo is not required
+LOG:  database system was interrupted; last known up at 2019-11-21 11:05:42 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/584F0800
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  statistics collector process (PID 121156) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 68124) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-21 17:32:15 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/58AFA188
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 126992) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 128212) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  received fast shutdown request
+LOG:  database system was interrupted; last known up at 2019-11-21 18:01:51 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/58AFA1F0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  server process (PID 130708) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 114520) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-22 09:40:32 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/58B93F78
+LOG:  record with zero length at 2/58BED5B8
+LOG:  redo done at 2/58BED588
+LOG:  last completed transaction was at log time 2019-11-22 09:42:17.347+08
+LOG:  startup process (PID 115172) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  aborting startup due to startup process failure
+^CLOG:  database system was interrupted; last known up at 2019-11-22 09:45:06 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/58BED620
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+FATAL:  role "odoo" does not exist
+FATAL:  role "odoo" does not exist
+FATAL:  role "odoo" does not exist
+FATAL:  role "odoo" does not exist
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  server process (PID 104284) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 123840) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-22 15:40:24 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/59425CA8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 137480) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 139828) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  database system was interrupted; last known up at 2019-11-22 16:05:05 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/59425D10
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 135064) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-22 16:31:57 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5942A6E8
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  statistics collector process (PID 140988) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 140980) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-22 16:31:59 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5942A750
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 141124) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  received fast shutdown request
+^CLOG:  database system was interrupted; last known up at 2019-11-22 16:32:01 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5942A7B8
+LOG:  redo is not required
+LOG:  database system was interrupted; last known up at 2019-11-22 16:32:02 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5942A820
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 136568) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-22 16:37:44 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/5942A888
+LOG:  record with zero length at 2/59470D68
+LOG:  redo done at 2/59470D20
+LOG:  last completed transaction was at log time 2019-11-22 16:38:58.075+08
+LOG:  database system is ready to accept connections
+LOG:  WAL writer process (PID 141188) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  statistics collector process (PID 137896) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  received fast shutdown request
+^CLOG:  database system was interrupted; last known up at 2019-11-22 16:41:50 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/59470DD0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+ERROR:  column todo_category.name does not exist at character 9
+STATEMENT:   SELECT "todo_category"."name" as "name","todo_category"."id" as "id" FROM "todo_category"
+	                        WHERE "todo_category".id IN (1, 2)  ORDER BY "todo_category"."id"  
+	                    
+ERROR:  column todo_category.name does not exist at character 9
+STATEMENT:   SELECT "todo_category"."name" as "name","todo_category"."id" as "id" FROM "todo_category"
+	                        WHERE "todo_category".id IN (1, 2)  ORDER BY "todo_category"."id"  
+	                    
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  statistics collector process (PID 134912) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 140104) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-22 17:52:35 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/599310C0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 133884) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 140184) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+^CLOG:  database system was interrupted; last known up at 2019-11-22 18:00:43 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/59931128
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  server process (PID 145884) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 149044) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-23 22:43:41 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/59D45FA0
+LOG:  record with zero length at 2/59D9BCA8
+LOG:  redo done at 2/59D9BC40
+LOG:  last completed transaction was at log time 2019-11-23 22:46:11.605+08
+LOG:  startup process (PID 143576) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  aborting startup due to startup process failure
+LOG:  database system was interrupted; last known up at 2019-11-23 22:46:36 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/59D9BD10
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  server process (PID 147736) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: ROLLBACK
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 153264) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-24 16:09:46 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/5A0F4858
+LOG:  record with zero length at 2/5A133A88
+LOG:  redo done at 2/5A133A58
+LOG:  last completed transaction was at log time 2019-11-24 16:09:58.734+08
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 148760) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 154952) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-24 16:10:17 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A133AF0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 157436) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 150280) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-24 16:11:41 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A133B58
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 149540) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+^CLOG:  database system was interrupted; last known up at 2019-11-24 16:11:44 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A133BC0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  server process (PID 157720) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: ROLLBACK
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 157504) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-24 16:26:44 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A1AFFC0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+LOG:  statistics collector process (PID 157712) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 156404) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+^CLOG:  database system was interrupted; last known up at 2019-11-24 16:54:48 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/5A2E6B80
+LOG:  record with zero length at 2/5A34F238
+LOG:  redo done at 2/5A34F1F0
+LOG:  last completed transaction was at log time 2019-11-24 16:56:08.707+08
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  database system was interrupted; last known up at 2019-11-24 17:04:58 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A4283A0
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 11740) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 4164) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-25 09:02:58 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A428408
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 10684) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  autovacuum launcher process (PID 8020) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+^CLOG:  database system was interrupted; last known up at 2019-11-25 09:09:22 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A428470
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 11312) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: COMMIT
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-25 09:25:47 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/5A4284D8
+LOG:  record with zero length at 2/5A4B8FA0
+LOG:  redo done at 2/5A4B8EE0
+LOG:  last completed transaction was at log time 2019-11-25 09:27:25.705+08
+LOG:  startup process (PID 8780) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  aborting startup due to startup process failure
+^C

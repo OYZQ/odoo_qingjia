@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <report
+            id="report_sale_order"
+            string="Quotation / Order"
+            model="sale.order"
+            report_type="qweb-html"
+            file="cfreport_demo.report_saleorder"
+            name="cfreport_demo.report_saleorder"
+        />
+
+        <report
+            id="report_product_template_label"
+            string="Products Labels"
+            model="product.template"
+            report_type="qweb-html"
+            name="cfreport_demo.report_producttemplatelabel"
+            file="cfreport_demo.report_producttemplatelabel"/>
+
+
+        <report
+            id="report_product_label"
+            string="Products Labels (CFPrint)"
+            model="product.product"
+            report_type="qweb-html"
+            name="cfreport_demo.report_productlabel"
+            file="cfreport_demo.report_productlabel"/>
+
+    </data>
+</odoo>

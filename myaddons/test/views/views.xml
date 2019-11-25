@@ -1,0 +1,49 @@
+<odoo>
+  <data>
+    <!-- tree视图 -->
+    <record id="view_tree_test_test" model="ir.ui.view">
+      <field name="name">请假单列表</field>
+      <field name="model">test.test</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="days"/>
+          <field name="startdate"/>
+          <field name="enddate"/>
+        </tree>
+      </field>
+    </record>
+
+    <!-- form视图 -->
+    <record id="view_form_test_test" model="ir.ui.view">
+      <field name="name">员工请假单</field>
+      <field name="model">test.test</field>
+      <field name="arch" type="xml">
+        <form>
+          <sheet>
+            <group name="group_top" string="员工请假单">
+              <field name="name"/>
+              <field name="days"/>
+              <field name="startdate"/>
+              <field name="enddate"/>
+              <field name="reason"/>
+            </group>
+          </sheet>
+        </form>
+      </field>
+    </record>
+
+    <!-- 视图动作 -->
+    <act_window id="action_test_test"
+                   name="员工请假单"
+                   res_model="test.test"
+                   view_mode="tree,form" />
+
+    <!-- 顶级菜单 -->
+    <menuitem name="请假" id="menu_test"/>
+
+    <!-- 二级菜单 -->
+    <menuitem name="请假单" id="menu_test_test" parent="menu_test" action="action_test_test"/>
+
+  </data>
+</odoo>
