@@ -1063,4 +1063,44 @@ LOG:  last completed transaction was at log time 2019-11-25 09:27:25.705+08
 LOG:  startup process (PID 8780) was terminated by exception 0xC000013A
 HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
 LOG:  aborting startup due to startup process failure
+^CLOG:  database system shutdown was interrupted; last known up at 2019-11-25 09:30:21 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  redo starts at 2/5A4284D8
+LOG:  record with zero length at 2/5A4B8FA0
+LOG:  redo done at 2/5A4B8EE0
+LOG:  last completed transaction was at log time 2019-11-25 09:27:25.705+08
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  server process (PID 5640) was terminated by exception 0xC000013A
+DETAIL:  Failed process was running: ROLLBACK
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+LOG:  statistics collector process (PID 11948) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  all server processes terminated; reinitializing
+LOG:  database system was interrupted; last known up at 2019-11-25 10:19:39 HKT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 2/5A5CC220
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  statistics collector process (PID 10624) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+ERROR:  canceling statement due to user request
+LOG:  autovacuum launcher process (PID 11256) was terminated by exception 0xC000013A
+HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+LOG:  terminating any other active server processes
+LOG:  all server processes terminated; reinitializing
 ^C
